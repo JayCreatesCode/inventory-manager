@@ -79,6 +79,8 @@ I will write all project code myself, while personally researching methods of wr
 - Git tracks changes made to project files. 
 - A repository is a project folder whose history is tracked by Git. 
 - An untracked file is visible to Git but is not yet included in Git's history. 
-- An untracked file is visible to Git but is not yet included in Git's history. 
 - Staging selects the changes that will go into the next commit. 
 - A commit is a saved checkpoint in the project's history. 
+- Origin is the principle name for the primary remote.
+- Connects an online repository to an offline repository.
+- The -u option connects the local main branch to the remote main branch
